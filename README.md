@@ -1,4 +1,4 @@
-<h1>About me</h1>
+<h1 style="border: none">About me</h1>
 
 Hello, I am a front-end developer.
 
