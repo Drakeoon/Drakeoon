@@ -1,4 +1,4 @@
-## About Me
+<h1>About me</h1>
 
 Hello, I am a front-end developer.
 
