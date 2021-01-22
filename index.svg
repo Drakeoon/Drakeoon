@@ -15,14 +15,14 @@
         h1 {
           color: #FF6D2A;
           letter-spacing: 0.28px;
-          font: normal normal bold 28px/25px Sofia Pro;
+          font: normal normal bold 28px/25px sans-serif;
           margin-top: 24px;
         }
         
         p {
           margin-top: 16px;
           color: #1E2742;
-          font: normal normal normal 18px/25px Sofia Pro;
+          font: normal normal normal 18px/25px sans-serif;
           letter-spacing: 0.18px;
         }
         
