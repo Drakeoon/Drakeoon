@@ -1,9 +1,10 @@
-
 <svg fill="none" viewBox="0 0 820 800" width="820" height="800" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     
     <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>        
+      <style>
+        @import url('https://fonts.cdnfonts.com/css/sofia-pro');
+        
         * {
           -webkit-font-smoothing: antialiased;
           -moz-osx-font-smoothing: grayscale;
@@ -26,7 +27,7 @@
         }
         
         header {
-          background-image: url('./background.png');
+          background-image: url('https://placehold.it/820x200');
           height: 200px;
           width: 820px;
           background-position: center;
@@ -88,9 +89,9 @@
           <h1>Tech Stacks</h1>
 
           <div class="technologies__wrapper">
-            <img src="https://placehold.it/86x60" alt="React">
+            <img src="https://placehold.it/86x60" alt="React" />
 
-            <img src="https://placehold.it/86x60" alt="Ember">
+            <img src="https://placehold.it/86x60" alt="Ember" />
           </div>
           
           <h1>Related Articles</h1>
@@ -100,8 +101,7 @@
               <a href="https://selleo.com/blog/how-to-run-your-first-event-storming-session">
                 https://selleo.com/blog/how-to-run-your-first-event-storming-session
               </a>
-                
-              </li>
+            </li>
           </ul>
       </div>
         
