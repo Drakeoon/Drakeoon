@@ -2,15 +2,12 @@
 
 <h1 style="border: none">About me</h1>
 
-Hello, I am a front-end developer.
+Hello, I am a mobile and web developer. I'm passionate about design systems, app architecture and developer experience.
 
-### Tech Stacks
+### Tech Stack
 
+- Typescript
 - React
+- React-Native
 - Ember
 - Phoenix
-- Typescript
-
-### Related Articles
-
-- more to be added soon...
