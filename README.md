@@ -6,8 +6,6 @@ I am a mobile and web developer. I'm passionate about design systems, app archit
 
 ### Tech Stack
 
-- Typescript
+- TypeScript
 - React
 - React-Native
-- Ember
-- Phoenix
